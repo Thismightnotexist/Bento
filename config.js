@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Krunker',
-			icon: 'github',
+			icon: 'gamepad',
 			link: 'https://krunker.io/',
 		},
 		{
@@ -66,25 +66,25 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Google Photos',
-			icon: 'trello',
+			icon: 'camera',
 			link: 'https://photos.google.com',
 		},
 		{
 			id: '4',
 			name: 'Typatone',
-			icon: 'calendar',
+			icon: 'keyboard',
 			link: 'https://typatone.com/',
 		},
 		{
 			id: '5',
 			name: 'Guitar',
-			icon: 'glasses',
+			icon: 'music',
 			link: 'https://www.musicca.com/guitar',
 		},
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'youtube',
+			icon: 'message-circle',
 			link: 'https://reddit.com/',
 		},
 	],
