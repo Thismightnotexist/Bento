@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Sleep',
-					link: 'https://www.youtube.com/watch?v=bf6YMLPheI4';
+					link: 'https://www.youtube.com/watch?v=bf6YMLPheI4',
 				},
 				{
 					name: 'Lofi',
