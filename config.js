@@ -11,29 +11,29 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Kichu!',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Go to Sleep',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherKey: '3a3bcfbf1b249e58432e565d14c3407d', // Write here your API Key
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '25.204849',
+	defaultLongitude: '55.270782',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Krunker',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://krunker.io/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Google Photos',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://photos.google.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Typatone',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://typatone.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Guitar',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://www.musicca.com/guitar',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Reddit',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://reddit.com/',
 		},
 	],
 
