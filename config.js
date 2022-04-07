@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'breifcase',
+			icon: 'briefcase',
 			id: '2',
 			links: [
 				{
