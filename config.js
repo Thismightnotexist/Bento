@@ -139,42 +139,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Relaxing',
+					link: 'https://www.youtube.com/watch?v=NCXZJM0AvpE',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sleep',
+					link: 'https://www.youtube.com/watch?v=bf6YMLPheI4';
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi',
+					link: 'https://youtube.com/watch?v=19BbOdi2sT4',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Queen',
+					link: 'https://www.youtube.com/watch?v=j440-D5JhjI',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'breifcase',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Google Classroom',
+					link: 'https://classroom.google.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Kahoot!',
+					link: 'https://kahoot.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Quizizz',
+					link: 'https://quizizz.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Google Drive',
+					link: 'https://drive.google.com',
 				},
 			],
 		},
